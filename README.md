@@ -1,4 +1,4 @@
-# Dashboard Website
+# 🍬 Dashboard Website
 
 ## Overview
 
